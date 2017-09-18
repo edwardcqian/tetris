@@ -2,7 +2,9 @@
 ------------
 
 ## Overview
-This is a slightly altered version of tetris build as a part of the CS 246 course at the University of Waterloo.
+This is a slightly altered version of tetris build as a part of the CS 246 course at the University of Waterloo. 
+
+This project is the final group project for the course and it was completed by Ali Sabet, Hyunjin Lee, and myself. 
 
 Since it is part of the course work, I cannot share the entire source of the project. So instead, I will share a compiled version of the project and some documentations.
 
