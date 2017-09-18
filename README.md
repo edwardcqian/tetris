@@ -4,7 +4,7 @@
 ## Overview
 This is a slightly altered version of tetris build as a part of the CS 246 course at the University of Waterloo.
 
-Since it is part of the course work, I cannot shared the entire source of the project. So instead, I will shared a compiled version of the project and some documentations.
+Since it is part of the course work, I cannot share the entire source of the project. So instead, I will share a compiled version of the project and some documentations.
 
 ## Commands
 - left/right/down: Moves the live block to the left/right/down if possible
